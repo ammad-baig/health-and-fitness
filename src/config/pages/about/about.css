@@ -1,0 +1,11 @@
+* {
+    font-family: "Barlow", sans-serif;
+    line-height: 2em;
+    padding: 0;
+    margin: 0;
+}
+.banner-2 {
+    background-image: url(../../images/section-bg2.png);
+    background-repeat: no-repeat;
+    background-position: cover;
+}

@@ -1,0 +1,13 @@
+* {
+    font-family: "Barlow", sans-serif;
+    line-height: 2em;
+    padding: 0;
+    margin: 0;
+}
+.footer-bg {
+    background-image: url(../../images/section_bg03.png.webp);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
